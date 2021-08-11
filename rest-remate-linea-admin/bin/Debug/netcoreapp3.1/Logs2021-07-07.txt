@@ -1,0 +1,79 @@
+2021-07-07 15:12:47,082 [14] ERROR App  
+ metodo InformarPersona 
+ 
+System.ArgumentNullException: Value cannot be null. (Parameter 'address')
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName, Encoding displayNameEncoding)
+   at System.Net.Mail.MailAddress..ctor(String address, String displayName)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo) in C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\Component\Repository\GarantiasRepository.cs:line 404
+2021-07-07 19:10:40,151 [5] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo) in C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\Component\Repository\GarantiasRepository.cs:line 430
+2021-07-07 19:12:43,711 [18] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo) in C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\Component\Repository\GarantiasRepository.cs:line 430
+2021-07-07 19:17:04,278 [18] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo)
+2021-07-07 19:18:25,082 [37] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo)
+2021-07-07 19:22:29,648 [40] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo)
+2021-07-07 19:27:33,667 [7] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo)
+2021-07-07 19:28:29,765 [27] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo)
+2021-07-07 19:29:41,781 [65] ERROR App  
+ metodo InformarPersona 
+ 
+System.FormatException: Input string was not in a correct format.
+   at System.Text.StringBuilder.FormatError()
+   at System.Text.StringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at EntityRepo.Component.Repository.GarantiasRepository.InformarPersona(Int32 id_persona, Int32 id_remate, Int32 tipo, String motivo)

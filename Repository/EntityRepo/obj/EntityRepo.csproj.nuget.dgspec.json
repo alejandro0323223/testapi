@@ -1,0 +1,151 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\EntityRepo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DataAccess\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DataAccess\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DataAccess\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DataAccess\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj": {
+                "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj",
+        "projectName": "DTOModels",
+        "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj",
+        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\EntityRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\EntityRepo.csproj",
+        "projectName": "EntityRepo",
+        "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\EntityRepo.csproj",
+        "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DataAccess\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DataAccess\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj": {
+                "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

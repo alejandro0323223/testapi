@@ -1,0 +1,17 @@
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.deps.json
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfoInputs.cache
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfo.cs
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\avejar\Documents\api-rest-remate-linea\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.AssemblyReference.cache
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.deps.json
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\bin\Debug\netcoreapp3.1\Utilidades.pdb
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfoInputs.cache
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.AssemblyInfo.cs
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\avejar\Documents\test-api\Utils\Utilidades\obj\Debug\netcoreapp3.1\Utilidades.pdb

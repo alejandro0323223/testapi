@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DTOModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/DTOModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DTOModels.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DTOModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
+      "EntityRepo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DTOModels": "1.0.0",
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EntityRepo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityRepo.dll": {}
+        }
+      },
+      "Utilidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Utilidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DTOModels/1.0.0": {
+      "type": "project",
+      "path": "../../DTO/DTOModels/DTOModels.csproj",
+      "msbuildProject": "../../DTO/DTOModels/DTOModels.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../../DataAccess/Entities/Entities.csproj",
+      "msbuildProject": "../../DataAccess/Entities/Entities.csproj"
+    },
+    "EntityRepo/1.0.0": {
+      "type": "project",
+      "path": "../../Repository/EntityRepo/EntityRepo.csproj",
+      "msbuildProject": "../../Repository/EntityRepo/EntityRepo.csproj"
+    },
+    "Utilidades/1.0.0": {
+      "type": "project",
+      "path": "../../Utils/Utilidades/Utilidades.csproj",
+      "msbuildProject": "../../Utils/Utilidades/Utilidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DTOModels >= 1.0.0",
+      "EntityRepo >= 1.0.0",
+      "Utilidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alejandro\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Business\\BusinessRemateLinea\\BusinessRemateLinea.csproj",
+      "projectName": "BusinessRemateLinea",
+      "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Business\\BusinessRemateLinea\\BusinessRemateLinea.csproj",
+      "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Business\\BusinessRemateLinea\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\DTO\\DTOModels\\DTOModels.csproj"
+            },
+            "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\EntityRepo.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Repository\\EntityRepo\\EntityRepo.csproj"
+            },
+            "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Utils\\Utilidades\\Utilidades.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\GitHub\\testapi\\Utils\\Utilidades\\Utilidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

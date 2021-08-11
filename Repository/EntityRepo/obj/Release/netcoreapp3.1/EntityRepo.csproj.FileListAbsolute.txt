@@ -1,0 +1,14 @@
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\EntityRepo.deps.json
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\EntityRepo.dll
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\EntityRepo.pdb
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\DTOModels.dll
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\bin\Release\netcoreapp3.1\DTOModels.pdb
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.csproj.AssemblyReference.cache
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.AssemblyInfoInputs.cache
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.AssemblyInfo.cs
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.csproj.CoreCompileInputs.cache
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.csproj.CopyComplete
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.dll
+C:\Users\avejar\Documents\api-rest-remate-linea\Repository\EntityRepo\obj\Release\netcoreapp3.1\EntityRepo.pdb

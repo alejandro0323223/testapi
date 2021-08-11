@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZJZGjbOKgh+SfT5/kNOj9nsXqoLf81rtE/y/yJKFWcw8rnZDAWwzK0ftbTm4ocPIj7J03rDF2ZGLfxV0PWDgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\avejar\\Documents\\test-api\\DTO\\DTOModels\\DTOModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avejar\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\avejar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\avejar\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
